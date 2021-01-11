@@ -1,7 +1,4 @@
 # practice
-<<<<<<< HEAD
-=======
 
 
 # creation
->>>>>>> main
